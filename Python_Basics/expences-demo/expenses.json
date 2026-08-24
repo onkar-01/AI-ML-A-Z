@@ -1,0 +1,17 @@
+[
+  {
+    "category": "food",
+    "amount": 250.0,
+    "note": "restorent"
+  },
+  {
+    "category": "transport",
+    "amount": 100.0,
+    "note": "bus fare"
+  },
+  {
+    "category": "entertainment",
+    "amount": 150.0,
+    "note": "movie tickets"
+  }
+]
